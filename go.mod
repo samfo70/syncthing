@@ -53,7 +53,7 @@ require (
 	golang.org/x/text v0.3.6
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 	golang.org/x/tools v0.1.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/protobuf v1.28.1
 )
 
 go 1.14
